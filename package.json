@@ -17,7 +17,7 @@
     "concurrently": "^4.1.0",
     "create-react-app": "^2.1.8",
     "express": "^4.16.4",
-    "mongoose": "^5.4.19"
+    "mongoose": "^5.7.5"
   },
   "devDependencies": {
     "nodemon": "^1.18.10"
